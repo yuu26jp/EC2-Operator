@@ -1,6 +1,8 @@
 # EC2 Operator
 Google Assistant から EC2 インスタンスを起動するためのアプリです。
 
+[![Youtube](http://img.youtube.com/vi/LggZFHPz7KM/0.jpg)](http://www.youtube.com/watch?v=LggZFHPz7KM)
+
 
 ## AWS_Lambda
 EC2 インスタンスを作成する Lambda 関数です。
