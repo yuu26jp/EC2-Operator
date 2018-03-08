@@ -16,3 +16,8 @@ EC2 インスタンスを作成する Lambda 関数です。
 ## Firebase
 起動すると、API Gateway 経由で上記 Lambda を実行します。
 返却される情報から、グローバル IP アドレスのみを抽出して応答文を作成します。
+
+
+## 詳細記事
+Google Home で新しいサーバを瞬時に作る - yuu26's memo
+http://blog.yuu26.com/entry/20171210/1512894321
